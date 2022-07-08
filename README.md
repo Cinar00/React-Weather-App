@@ -1,5 +1,5 @@
 
-`DEMO: https://beytullahcinar-react-weather-app.netlify.app/`
+`DEMO:` https://beytullahcinar-react-weather-app.netlify.app/
 
 # Getting Started with Create React App
 
